@@ -1,0 +1,23 @@
+{
+  "short_name": "Cricket Scorer",
+  "name": "Cricket Scorer Pro",
+  "description": "A comprehensive and intuitive web application for scoring cricket matches ball-by-ball.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%231e3a8a'><path d='m7.5 21.5-5-5.5.5-1.5 5 5-1.5.5zM20.5 3.5c-2-2-5-2-7 0l-8.5 8.5.5 1.5 8-8 1.5.5-8 8 .5 1.5 8-8 1.5.5-8 8 .5 1.5 12-12c2-2 2-5 0-7zM14.5 9.5l5 5'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%231e3a8a'><path d='m7.5 21.5-5-5.5.5-1.5 5 5-1.5.5zM20.5 3.5c-2-2-5-2-7 0l-8.5 8.5.5 1.5 8-8 1.5.5-8 8 .5 1.5 8-8 1.5.5-8 8 .5 1.5 12-12c2-2 2-5 0-7zM14.5 9.5l5 5'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#f3f4f6"
+}
